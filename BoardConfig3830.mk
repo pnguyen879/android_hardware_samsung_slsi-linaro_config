@@ -14,6 +14,8 @@
 # limitations under the License.
 #
 
+TARGET_SOC_BASE := exynos3830
+
 USE_OPENGL_RENDERER := true
 NUM_FRAMEBUFFER_SURFACE_BUFFERS := 3
 BOARD_USES_EXYNOS5_COMMON_GRALLOC := true
